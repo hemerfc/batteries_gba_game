@@ -1,0 +1,7 @@
+*.a
+celeste.lua
+run_away_game.elf
+run_away_game.gba
+run_away_game.sav
+.vscode/*.log
+build/*

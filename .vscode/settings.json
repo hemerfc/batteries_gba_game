@@ -1,0 +1,39 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "stdio.h": "c",
+        "tonc.h": "c",
+        "tonc_types.h": "c",
+        "metr.h": "c",
+        "player.h": "c",
+        "global.h": "c",
+        "random": "c",
+        "stdlib.h": "c",
+        "all_gfx.h": "c",
+        "node.h": "c",
+        "node_player.h": "c",
+        "node_list.h": "c",
+        "node_home_room.h": "c",
+        "room.h": "c",
+        "node_ball.h": "c",
+        "node_room_gameover.h": "c",
+        "node_room_home.h": "c",
+        "base.h": "c",
+        "game_state.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "sprite.h": "c",
+        "body.h": "c",
+        "plataform.h": "c",
+        "tileset.h": "c",
+        "ExportedTilemap.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Projetos\\games\\gba\\batteries",
+            "binaryPath": "d:\\Projetos\\games\\gba\\batteries\\a.out",
+            "binaryArgs": []
+        }
+    ]
+}
